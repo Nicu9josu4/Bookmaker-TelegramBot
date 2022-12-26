@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+		Microsoft ResX Schema
+
+		Version 1.3
+
+		The primary goals of this format is to allow a simple XML format 
+		that is mostly human readable. The generation and parsing of the 
+		various data types are done through the TypeConverter classes 
+		associated with the data types.
+
+		Example:
+
+		... ado.net/XML headers & schema ...
+		<resheader name="resmimetype">text/microsoft-resx</resheader>
+		<resheader name="version">1.3</resheader>
+		<resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+		<resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+		<data name="Name1">this is my long string</data>
+		<data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+		<data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+			[base64 mime encoded serialized .NET Framework object]
+		</data>
+		<data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+			[base64 mime encoded string representing a byte array form of the .NET Framework object]
+		</data>
+
+		There are any number of "resheader" rows that contain simple 
+		name/value pairs.
+
+		Each data row contains a name, and value. The row also contains a 
+		type or mimetype. Type corresponds to a .NET class that support 
+		text/value conversion through the TypeConverter architecture. 
+		Classes that don't support this are serialized and stored with the 
+		mimetype set.
+
+		The mimetype is used for serialized objects, and tells the 
+		ResXResourceReader how to depersist the object. This is currently not 
+		extensible. For a given mimetype the value must be set accordingly:
+
+		Note - application/x-microsoft.net.object.binary.base64 is the format 
+		that the ResXResourceWriter will generate, however the reader can 
+		read any of the formats listed below.
+
+		mimetype: application/x-microsoft.net.object.binary.base64
+		value   : The object must be serialized with 
+			: System.Serialization.Formatters.Binary.BinaryFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.soap.base64
+		value   : The object must be serialized with 
+			: System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.bytearray.base64
+		value   : The object must be serialized into a byte array 
+			: using a System.ComponentModel.TypeConverter
+			: and then encoded with base64 encoding.
+	-->
+	
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+<data name="and" xml:space="preserve">
+    <value>и</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Назад</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Описание</value>
+  </data>
+  <data name="DescriptionText" xml:space="preserve">
+    <value>Это мероприятие создано в честь футбольного чемпионата со всего мира, добро пожаловать
+принять участие может любой, кто является частью команды Moldcell.
+Цель: Накопить очки и подняться на вершину, чтобы получить приз.
+Чемпионат мира по футболу 2022 года организован 32 футбольными командами после 64 игр между командами.
+Данное событие не является азартной игрой или средой, в которую нужно будет что-то вкладывать.</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>Английский</value>
+  </data>
+  <data name="Enter your name, surname and phone according to the model:" xml:space="preserve">
+    <value>Введите имя, фамилию и номер телефона по образцу:</value>
+  </data>
+  <data name="Equal" xml:space="preserve">
+    <value>Ничья</value>
+  </data>
+  <data name="For teams" xml:space="preserve">
+    <value>Для команд</value>
+  </data>
+  <data name="from match between" xml:space="preserve">
+    <value>от матча между</value>
+  </data>
+  <data name="from team" xml:space="preserve">
+    <value>из команды</value>
+  </data>
+  <data name="History" xml:space="preserve">
+    <value>История</value>
+  </data>
+  <data name="In the match between:" xml:space="preserve">
+    <value>В матче между:</value>
+  </data>
+  <data name="Introduce final score by model:" xml:space="preserve">
+    <value>Введите финальный счёт игры согласно образца:</value>
+  </data>
+  <data name="Main Menu" xml:space="preserve">
+    <value>Главное меню</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Никого</value>
+  </data>
+  <data name="Players" xml:space="preserve">
+    <value>Игроки</value>
+  </data>
+  <data name="Players with goals:" xml:space="preserve">
+    <value>Игроки, забившие:</value>
+  </data>
+  <data name="Register please on" xml:space="preserve">
+    <value>Зарегистрируйтесь, пожалуйста, на</value>
+  </data>
+  <data name="Register prognose for this matches" xml:space="preserve">
+    <value>Запишите прогноз на этот матч</value>
+  </data>
+  <data name="Register the final winner team" xml:space="preserve">
+    <value>Выберите команду, которая выиграет чемпионат мира по футболу 2022</value>
+  </data>
+  <data name="Romanian" xml:space="preserve">
+    <value>Румынский</value>
+  </data>
+  <data name="Rules" xml:space="preserve">
+    <value>Правила</value>
+  </data>
+  <data name="RulesText" xml:space="preserve">
+    <value>Когда и как я могу принять участие в конкурсе?
+
+Вы можете принять участие в розыгрыше призов, когда вашей душе угодно!
+
+Единственное условие — это период с 20 ноября по 18 декабря 2022 года (продолжительность чемпионата мира по футболу 2022 года).
+
+Все, что вам нужно, это: номер Moldcell и приложение Telegram.
+
+Что делать?
+
+Откройте Telegram Chat Bot по ссылке: http://t.me/FWChampionshipBot
+
+Зарегистрируйтесь под своим именем, фамилией и номером телефона
+
+Создайте прогнозы для следующих событий:
+
+- команда-победитель матча (первая, вторая или ничья)
+- точный счет матча
+- игрок команды, которая забьет гол во время матча (можно выбрать только одного из одной из команд)
+- команда-победитель ЧМ-2022
+
+Накапливайте баллы за правильный прогноз:
+
+• Если вы угадаете команду-победителя матча, получите 1 очко;
+• Если вы угадали игрока, который забьет гол в матче, получите 1 очко;
+• Если вы угадываете окончательный счет игры, вы получаете 3 очка;
+• Если вы угадали финального победителя ЧМ-2022, сделав прогноз;
+* До 20 ноября – 50 баллов
+* До 3 декабря – 10 баллов
+* До 9 декабря – 5 баллов
+• Если вы не угадываете ни победителя, ни счет, ни игрока, который забьет, вы получаете 0 очков;
+• За незавершенные совпадения будет считаться отсутствие ответа, т.е. 0 баллов.
+• Если матч начался, вы больше не можете делать прогнозы на этот матч.
+
+Какие призы я могу выиграть?
+Мы разыгрываем один главный приз — консоль Xbox Series X емкостью 1 ТБ и два небольших приза — беспроводную гарнитуру HyperX Cloud Stinger Core 7.1 и гарнитуру Monster Clarity 100 Airlinks Black!
+
+Окончательный рейтинг будет основан на баллах, набранных участниками, в порядке убывания. Таким образом, главный приз получит тот, кто наберет наибольшее количество баллов.
+
+В случае ничьей побеждает тот, кто записал последний прогноз ранее.</value>
+  </data>
+  <data name="Russian" xml:space="preserve">
+    <value>Русский</value>
+  </data>
+  <data name="See the best voters" xml:space="preserve">
+    <value>Рейтинг участников</value>
+  </data>
+  <data name="Select final score of the match" xml:space="preserve">
+    <value>Нажмите сюда чтобы выбрать окончательный счет</value>
+  </data>
+  <data name="Select Final Team" xml:space="preserve">
+    <value>Выберите команду-победителя Чемпионата Мира по Футболу 2022</value>
+  </data>
+  <data name="Select Language" xml:space="preserve">
+    <value>Настройки языка</value>
+  </data>
+  <data name="Select Match" xml:space="preserve">
+    <value>Выберите матч</value>
+  </data>
+  <data name="Select Player" xml:space="preserve">
+    <value>Выберите, который забьёт гол</value>
+  </data>
+  <data name="Select player from team" xml:space="preserve">
+    <value>Выберите игрока из команды</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="Something went wrong" xml:space="preserve">
+    <value>Что-то пошло не так</value>
+  </data>
+  <data name="Start Prognose" xml:space="preserve">
+    <value>Введите прогноз</value>
+  </data>
+  <data name="Teams or Equal" xml:space="preserve">
+    <value>Команда или ничья</value>
+  </data>
+  <data name="The final score" xml:space="preserve">
+    <value>Окончательный счет</value>
+  </data>
+  <data name="The score cannot be negative" xml:space="preserve">
+    <value>Счёт не может быть отрицательным</value>
+  </data>
+  <data name="the winning team" xml:space="preserve">
+    <value>Kоманда-победитель</value>
+  </data>
+  <data name="There is no such page" xml:space="preserve">
+    <value>Страница не существует</value>
+  </data>
+  <data name="Top Voters" xml:space="preserve">
+    <value>Список топ участников</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Итоги</value>
+  </data>
+  <data name="Try command" xml:space="preserve">
+    <value>Попробуйте команду</value>
+  </data>
+  <data name="vote please" xml:space="preserve">
+    <value>Проголосуйте пожалуйста:</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="You can select match and get many points or you can try to select who was win in final" xml:space="preserve">
+    <value>Вы можете выбрать матч, чтобы получить больше очков в прогнозировании победы или выбрать команду, которая в итоге станет победителем</value>
+  </data>
+  <data name="You entered an incorrect score, try again" xml:space="preserve">
+    <value>Вы ввели неверный счет, попробуйте еще раз</value>
+  </data>
+  <data name="You have chosen the team that will come out in the end" xml:space="preserve">
+    <value>Вы выбрали команду, которая выйдет в конце</value>
+  </data>
+  <data name="You have entered an incorrect name" xml:space="preserve">
+    <value>Вы ввели неверное имя</value>
+  </data>
+  <data name="You have entered an incorrect phone number, please try again" xml:space="preserve">
+    <value>Вы ввели неверный номер телефона, попробуйте еще раз</value>
+  </data>
+  <data name="You have not entered enough data, try again" xml:space="preserve">
+    <value>Вы ввели недостаточно данных, попробуйте еще раз</value>
+  </data>
+  <data name="You have not entered the data" xml:space="preserve">
+    <value>Вы не ввели данные</value>
+  </data>
+  <data name="You have registered, do you want to change the data?" xml:space="preserve">
+    <value>Вы уже зарегистрировались, желаете изменить данные?</value>
+  </data>
+  <data name="You have registred successfully" xml:space="preserve">
+    <value>Вы успешно зарегистрировались</value>
+  </data>
+  <data name="You have select" xml:space="preserve">
+    <value>Вы выбрали</value>
+  </data>
+  <data name="You have select equal" xml:space="preserve">
+    <value>Вы проголосовали за ничью</value>
+  </data>
+  <data name="You have select equal from match between" xml:space="preserve">
+    <value>Вы выбрали ничью в матче между</value>
+  </data>
+  <data name="You have select player" xml:space="preserve">
+    <value>Вы проголосовали за игрокa</value>
+  </data>
+  <data name="You have select score" xml:space="preserve">
+    <value>Вы выбрали счет</value>
+  </data>
+  <data name="You have selected" xml:space="preserve">
+    <value>Вы выбрали</value>
+  </data>
+  <data name="You have taken no action" xml:space="preserve">
+    <value>Вы не предприняли никаких действий</value>
+  </data>
+  <data name="You have vote:" xml:space="preserve">
+    <value>Ваш прогноз:</value>
+  </data>
+  <data name="You have voted equal between" xml:space="preserve">
+    <value>Вы проголосовали за ничью между</value>
+  </data>
+  <data name="You have voted successfully" xml:space="preserve">
+    <value>Вы успешно выбрали.</value>
+  </data>
+  <data name="Your number contains too many digits" xml:space="preserve">
+    <value>Ваш номер содержит слишком много цифр, попробуйте еще раз</value>
+  </data>
+  <data name="Your number does not contain enough digits" xml:space="preserve">
+    <value>Bаш номер не содержит достаточного количества цифр, попробуйте еще раз</value>
+  </data>
+</root>

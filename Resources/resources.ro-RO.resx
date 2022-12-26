@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+		Microsoft ResX Schema
+
+		Version 1.3
+
+		The primary goals of this format is to allow a simple XML format 
+		that is mostly human readable. The generation and parsing of the 
+		various data types are done through the TypeConverter classes 
+		associated with the data types.
+
+		Example:
+
+		... ado.net/XML headers & schema ...
+		<resheader name="resmimetype">text/microsoft-resx</resheader>
+		<resheader name="version">1.3</resheader>
+		<resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+		<resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+		<data name="Name1">this is my long string</data>
+		<data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+		<data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+			[base64 mime encoded serialized .NET Framework object]
+		</data>
+		<data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+			[base64 mime encoded string representing a byte array form of the .NET Framework object]
+		</data>
+
+		There are any number of "resheader" rows that contain simple 
+		name/value pairs.
+
+		Each data row contains a name, and value. The row also contains a 
+		type or mimetype. Type corresponds to a .NET class that support 
+		text/value conversion through the TypeConverter architecture. 
+		Classes that don't support this are serialized and stored with the 
+		mimetype set.
+
+		The mimetype is used for serialized objects, and tells the 
+		ResXResourceReader how to depersist the object. This is currently not 
+		extensible. For a given mimetype the value must be set accordingly:
+
+		Note - application/x-microsoft.net.object.binary.base64 is the format 
+		that the ResXResourceWriter will generate, however the reader can 
+		read any of the formats listed below.
+
+		mimetype: application/x-microsoft.net.object.binary.base64
+		value   : The object must be serialized with 
+			: System.Serialization.Formatters.Binary.BinaryFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.soap.base64
+		value   : The object must be serialized with 
+			: System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.bytearray.base64
+		value   : The object must be serialized into a byte array 
+			: using a System.ComponentModel.TypeConverter
+			: and then encoded with base64 encoding.
+	-->
+	
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+<data name="and" xml:space="preserve">
+    <value>si</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Inapoi</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Descriere</value>
+  </data>
+  <data name="DescriptionText" xml:space="preserve">
+    <value>Acest eveniment este creat în onoarea campionatului de fotbal din întreaga lume, sunteți binevenit
+poate participa oricine care face parte din echipa Moldcell.
+Scopul este: Acumularea de puncte și ridicarea în vârf pentru a primi un premiu.
+Campionatul Mondial de Fotbal 2022 este organizat de 32 de echipe de fotbal în urma a 64 de meciuri între echipe
+Evenimentul dat nu este un joc de noroc sau un mediu în care va fi necesar să investești ceva.</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>Engleza</value>
+  </data>
+  <data name="Enter your name, surname and phone according to the model:" xml:space="preserve">
+    <value>Introduceți numele, prenumele și numarul de telefon conform modelului:</value>
+  </data>
+  <data name="Equal" xml:space="preserve">
+    <value>Egalitate</value>
+  </data>
+  <data name="For teams" xml:space="preserve">
+    <value>Pentru echipele</value>
+  </data>
+  <data name="from match between" xml:space="preserve">
+    <value>din meciul dintre</value>
+  </data>
+  <data name="from team" xml:space="preserve">
+    <value>din echipa</value>
+  </data>
+  <data name="History" xml:space="preserve">
+    <value>Istoria</value>
+  </data>
+  <data name="In the match between:" xml:space="preserve">
+    <value>În meciul dintre:</value>
+  </data>
+  <data name="Introduce final score by model:" xml:space="preserve">
+    <value>introduceti scorul final dupa modelul:</value>
+  </data>
+  <data name="Main Menu" xml:space="preserve">
+    <value>Meniu principal</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>Nu</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Nici unul</value>
+  </data>
+  <data name="Players" xml:space="preserve">
+    <value>Jucatorii</value>
+  </data>
+  <data name="Players with goals:" xml:space="preserve">
+    <value>Jucători cu gol:</value>
+  </data>
+  <data name="Register please on" xml:space="preserve">
+    <value>Înregistrați-vă vă rog</value>
+  </data>
+  <data name="Register prognose for this matches" xml:space="preserve">
+    <value>Inregistrati prognoza pentru acest meci</value>
+  </data>
+  <data name="Register the final winner team" xml:space="preserve">
+    <value>Alegeti echipa care va iesi invingatoare in final</value>
+  </data>
+  <data name="Romanian" xml:space="preserve">
+    <value>Română</value>
+  </data>
+  <data name="Rules" xml:space="preserve">
+    <value>Reguli</value>
+  </data>
+  <data name="RulesText" xml:space="preserve">
+    <value>Când și cum mă înscriu în concurs?
+
+Poți intra în goana cu premii oricând dorește inima ta!
+
+Singura condiție este ca acesta să fie între 20 noiembrie și 18 decembrie 2022 (durata Cupei Mondiale 2022).
+
+Tot ce aveți nevoie este: numărul Moldcell și aplicația Telegram
+
+Ce să fac?
+
+Deschide Telegram Chat Bot prin linkul: http://t.me/FWChampionshipBot
+
+Înregistrați-vă cu numele, prenumele și numărul de telefon
+
+Creați predicții pentru următoarele evenimente:
+
+- echipa câștigătoare a meciului (prima, a doua sau la egalitate)
+- scorul exact al meciului
+- jucătorul echipei care va marca un gol în timpul meciului (puteți alege doar unul din una dintre echipe)
+- echipa câștigătoare a Cupei Mondiale 2022
+
+Acumulați puncte în cazul unei predicții corecte:
+
+• Dacă ghiciți echipa câștigătoare a meciului, acumulați 1 punct;
+• Dacă ghiciți jucătorul care va înscrie un gol în meci, acumulați 1 punct;
+• Dacă ghiciți scorul final al jocului, acumulați 3 puncte;
+• Dacă ghiciți câștigătorul final al Cupei Mondiale 2022 făcând un pronostic;
+* Până pe 20 noiembrie – 50 de puncte
+* Până pe 3 decembrie – 10 puncte
+* Până pe 9 decembrie – 5 puncte
+• Dacă nu ghiciți nici câștigătorul, nici scorul, nici jucătorul care va înscrie, acumulați 0 puncte;
+• Pentru meciurile nefinalizate, va fi considerat un răspuns lipsă, adică 0 puncte.
+• Dacă meciul a început, nu mai puteți face pronosticuri pentru acest meci.
+
+Ce premii pot câștiga?
+Oferim un mare premiu - consola Xbox Series X 1TB și două premii mici - Căștile fără fir HyperX Cloud Stinger Core 7.1 și căștile Monster Clarity 100 Airlinks Black!
+
+Clasamentul final se va face în funcție de punctele acumulate de participanți, în ordine descrescătoare. Astfel, Marele Premiu va fi câștigat de cel cu cele mai multe puncte acumulate.
+
+În caz de egalitate, câștigă cel care a înregistrat mai devreme ultimul pronostic.</value>
+  </data>
+  <data name="Russian" xml:space="preserve">
+    <value>Rusă</value>
+  </data>
+  <data name="See the best voters" xml:space="preserve">
+    <value>Clasament participantilor</value>
+  </data>
+  <data name="Select final score of the match" xml:space="preserve">
+    <value>Apasati aici pentru a alege scorul final</value>
+  </data>
+  <data name="Select Final Team" xml:space="preserve">
+    <value>Alege echipa câștigătoarea la Campionat Mondial de Fotbal 2022</value>
+  </data>
+  <data name="Select Language" xml:space="preserve">
+    <value>Setarea limbii</value>
+  </data>
+  <data name="Select Match" xml:space="preserve">
+    <value>Alegerea meciului</value>
+  </data>
+  <data name="Select Player" xml:space="preserve">
+    <value>Selectați jucătorul</value>
+  </data>
+  <data name="Select player from team" xml:space="preserve">
+    <value>Selectați un jucător din echipă</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Setari</value>
+  </data>
+  <data name="Something went wrong" xml:space="preserve">
+    <value>Ceva n-a mers bine</value>
+  </data>
+  <data name="Start Prognose" xml:space="preserve">
+    <value>Intoduceti prognostic</value>
+  </data>
+  <data name="Teams or Equal" xml:space="preserve">
+    <value>Echipa sau egalitate</value>
+  </data>
+  <data name="The final score" xml:space="preserve">
+    <value>Scorul final</value>
+  </data>
+  <data name="The score cannot be negative" xml:space="preserve">
+    <value>Scorul nu poate fi negativ</value>
+  </data>
+  <data name="the winning team" xml:space="preserve">
+    <value>Echipa învingătoare</value>
+  </data>
+  <data name="There is no such page" xml:space="preserve">
+    <value>Nu exista asa pagina</value>
+  </data>
+  <data name="Top Voters" xml:space="preserve">
+    <value>Topul participantilor</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="Try command" xml:space="preserve">
+    <value>Încercați comanda</value>
+  </data>
+  <data name="vote please" xml:space="preserve">
+    <value>Votati va rog:</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Da</value>
+  </data>
+  <data name="You can select match and get many points or you can try to select who was win in final" xml:space="preserve">
+    <value>Poti selecta meciul ca sa primesti mai multe puncte in prognozarea castigului sau sa alegi echipa care va deveni castigatoare in final</value>
+  </data>
+  <data name="You entered an incorrect score, try again" xml:space="preserve">
+    <value>Ati introdus un scor incorect, mai incercati</value>
+  </data>
+  <data name="You have chosen the team that will come out in the end" xml:space="preserve">
+    <value>Ai ales echipa care va ieși până la urmă</value>
+  </data>
+  <data name="You have entered an incorrect name" xml:space="preserve">
+    <value>Ați introdus un nume incorect</value>
+  </data>
+  <data name="You have entered an incorrect phone number, please try again" xml:space="preserve">
+    <value>Ați introdus un număr de telefon incorect, vă rugăm să încercați din nou</value>
+  </data>
+  <data name="You have not entered enough data, try again" xml:space="preserve">
+    <value>Nu ați introdus suficiente date, încercați din nou</value>
+  </data>
+  <data name="You have not entered the data" xml:space="preserve">
+    <value>Nu ați introdus datele</value>
+  </data>
+  <data name="You have registered, do you want to change the data?" xml:space="preserve">
+    <value>Dumneavoastra V-ati inregistrat, doriti sa modificati datele?</value>
+  </data>
+  <data name="You have registred successfully" xml:space="preserve">
+    <value>V-ati inregistrat cu success</value>
+  </data>
+  <data name="You have select" xml:space="preserve">
+    <value>Ai selectat</value>
+  </data>
+  <data name="You have select equal" xml:space="preserve">
+    <value>Ati votat egalitate</value>
+  </data>
+  <data name="You have select equal from match between" xml:space="preserve">
+    <value>Ai selectat egal din meciul dintre</value>
+  </data>
+  <data name="You have select player" xml:space="preserve">
+    <value>Ati votat jucatori</value>
+  </data>
+  <data name="You have select score" xml:space="preserve">
+    <value>Ati selectat scorul</value>
+  </data>
+  <data name="You have selected" xml:space="preserve">
+    <value>Ai selectat</value>
+  </data>
+  <data name="You have taken no action" xml:space="preserve">
+    <value>Nu ai luat nicio acțiune</value>
+  </data>
+  <data name="You have vote:" xml:space="preserve">
+    <value>Pronostic Dvs:</value>
+  </data>
+  <data name="You have voted equal between" xml:space="preserve">
+    <value>Ai votat egalitate între</value>
+  </data>
+  <data name="You have voted successfully" xml:space="preserve">
+    <value>Ati ales cu success</value>
+  </data>
+  <data name="Your number contains too many digits" xml:space="preserve">
+    <value>Numărul dvs. conține prea multe cifre, vă rugăm să încercați din nou</value>
+  </data>
+  <data name="Your number does not contain enough digits" xml:space="preserve">
+    <value>Numărul dvs. nu conține suficiente cifre, vă rugăm să încercați din nou</value>
+  </data>
+</root>
