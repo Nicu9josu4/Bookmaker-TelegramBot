@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   bot:
-    image: gitlab.moldcell.md:5050/test-only/telegram-bots/bookmakertelegrambot:${RELEASE_VERSION}
+    image: "*"
     # ports:
     #   - "80:80"
     #   - "443:443"
